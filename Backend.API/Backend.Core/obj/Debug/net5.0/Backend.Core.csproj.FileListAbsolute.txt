@@ -1,0 +1,12 @@
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.AssemblyReference.cache
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+D:\CODING\repos\Source\Backend\Backend.API\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb

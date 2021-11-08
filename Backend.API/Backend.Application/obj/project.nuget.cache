@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3aV7drh5f3PTWn4+3EarYAEG2HEjFBKm3Mv0a2a/UKd/UoX1Y/U0eRRzDXQ7yWJH/4PQimhAzWF9jXjaAVGmg==",
+  "success": true,
+  "projectFilePath": "D:\\CODING\\repos\\Source\\Backend\\Backend.API\\Backend.Application\\Backend.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo C340\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Lenovo C340\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo C340\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
